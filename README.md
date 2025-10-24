@@ -1,6 +1,7 @@
 [![Discord](https://img.shields.io/discord/yourServerID?label=Join%20Discord&logo=discord&color=5865F2)]([https://discord.gg/yourInviteCode](https://discord.gg/6vpe5X78w8))
 
 
+
 # GorillaLocomocation
 ## README
 
