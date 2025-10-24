@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/TheMonkeyHub?label=Join%20Discord&logo=discord&style=flat&color=5865F2)](https://discord.gg/6vpe5X78w8)
+[![Discord](https://img.shields.io/discord/?label=Join%20Discord&logo=discord&style=flat&color=5865F2)](https://discord.gg/6vpe5X78w8)
 
 # GorillaLocomocation
 ## README
