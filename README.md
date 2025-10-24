@@ -1,4 +1,5 @@
-[![Join Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vpe5X78w8)
+[![Join Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vpe5X78w8) [![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Join%20Discord&logo=discord&style=flat&color=5865F2)](https://discord.gg/6vpe5X78w8)
+
 
 # GorillaLocomocation
 ## README
