@@ -24,5 +24,4 @@ set Collision Detection to Continuous Speculaitive
 4. Add a Configurable Joint onto the PhysicsHands and drag in the Player Rigidbody 
 in the Connected Body
 
-
 If you need any extra help join the discord server
