@@ -6,7 +6,13 @@ Just a physics rig?!!
 ## Description
 A physics based Gorilla Locomotion system built for realistic climbing, movement, and interaction using Rigidbodys and joints.
 
+## Settings
+- Frequency: how fast it follows (higher = snappier)
+- Damping: how smooth it feels (higher = softer)
+- Rot Frequency and Rot Damping do the same for rotation.
 
+I recommend you keep the values the same but depending 
+on how you want your hands to work its up to you
 
 ## Setup
 1. Make a game object called LeftPhysics and RightPhysics them drag the PhysicsHands script and also
@@ -18,12 +24,5 @@ set Collision Detection to Continuous Speculaitive
 4. Add a Configurable Joint onto the PhysicsHands and drag in the Player Rigidbody 
 in the Connected Body
 
-Settings:
-- Frequency: how fast it follows (higher = snappier)
-- Damping: how smooth it feels (higher = softer)
-- Rot Frequency and Rot Damping do the same for rotation.
-
-I recommend you keep the values the same but depending 
-on how you want your hands to work its up to you
 
 If you need any extra help join the discord server
