@@ -1,10 +1,14 @@
 [![Discord](https://img.shields.io/discord/1157693749841899621?label=Join%20Discord&logo=discord&style=flat&color=5865F2)](https://discord.gg/6vpe5X78w8)
 
 # KineticGorilla
+Just a physics rig?!!
 
-## README
+## Description
+A physics based Gorilla Locomotion system built for realistic climbing, movement, and interaction using Rigidbodys and joints.
 
-Setup:
+
+
+## Setup
 1. Make a game object called LeftPhysics and RightPhysics them drag the PhysicsHands script and also
 the PhysicsGrab script onto the object (MAKE SURE YOU SET UP THE SCRIPTS)
 2. Add a Box Collider onto the PhysicsHands and make sure the position is 0,0,0 and the Size 
