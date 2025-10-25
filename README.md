@@ -23,4 +23,3 @@ I recommend you keep the values the same but depending
 on how you want your hands to work its up to you
 
 If you need any extra help join the discord server
-Link: https://discord.gg/6vpe5X78w8
