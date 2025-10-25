@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/discord/1157693749841899621?label=Join%20Discord&logo=discord&style=flat&color=5865F2)](https://discord.gg/6vpe5X78w8)
 
-# GorillaLocomocation
+# KineticGorilla
 ## README
 
 Made by Xynor (With the help of AI)
